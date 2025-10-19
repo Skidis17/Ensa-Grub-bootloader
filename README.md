@@ -14,3 +14,8 @@ cd vm-themes/vm1
 chmod +x build_iso.sh
 ./build_iso.sh
 qemu-system-x86_64 -cdrom vm1.iso -boot order=d -m 1024 -vga std
+```
+
+## GRUB 
+
+<img width="1276" height="786" alt="image" src="https://github.com/user-attachments/assets/adea6f72-0347-4277-b658-923832899c73" />
