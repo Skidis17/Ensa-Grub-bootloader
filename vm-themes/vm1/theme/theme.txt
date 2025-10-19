@@ -1,0 +1,34 @@
+# Background
+desktop-image: "background.png"
+
+# Filiere
++ label {
+    text = "Genie INFORMATIQUE"
+    font = "Montserrat-24"
+    color = "#000000"
+    top = 45%
+    left = 45%
+}
+
+# explanation
++ label {
+    text = "Welcome students! This is your dedicated Virtual environment"
+    font = "Montserrat-18"
+    color = "#000000"
+    top = 55%
+    left = 30%
+}
++ label {
+    text = "for Computer Science (GENIE INFORMATIQUE)."
+    font = "Montserrat-18"
+    color = "#000000"
+    top = 58%
+    left = 30%
+}
++ label {
+    text = "Please be careful while using this VM."
+    font = "Montserrat-18"
+    color = "#000000"
+    top = 61%
+    left = 30%
+}
